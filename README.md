@@ -29,19 +29,19 @@ _Contact me:_
 _Languages and Tools:_
 
 <p>
-<img src="https://cdn.simpleicons.org/html5/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 4px"/>
-<img src="https://cdn.simpleicons.org/css3/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 4px"/>
-<img src="https://cdn.simpleicons.org/javascript/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/react/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/next.js/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/node.js/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/express/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/mysql/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/mongodb/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/graphql/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/git/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/github/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
-<img src="https://cdn.simpleicons.org/windowsterminal/_/ccc" alt="carloscabi" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/html5/_/ccc" alt="html" height="27px" width="27px"style="padding: 0 4px"/>
+<img src="https://cdn.simpleicons.org/css3/_/ccc" alt="css" height="27px" width="27px"style="padding: 0 4px"/>
+<img src="https://cdn.simpleicons.org/javascript/_/ccc" alt="js" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/react/_/ccc" alt="react" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/next.js/_/ccc" alt="nextjs" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/node.js/_/ccc" alt="nodejs" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/express/_/ccc" alt="expressjs" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/mysql/_/ccc" alt="mysql" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/mongodb/_/ccc" alt="mongodb" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/graphql/_/ccc" alt="graphql" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/git/_/ccc" alt="git" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/github/_/ccc" alt="github" height="27px" width="27px"style="padding: 0 5px"/>
+<img src="https://cdn.simpleicons.org/windowsterminal/_/ccc" alt="windowsterminal" height="27px" width="27px"style="padding: 0 5px"/>
 </p>
 
 > Always learning
