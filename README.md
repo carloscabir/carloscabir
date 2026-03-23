@@ -5,14 +5,9 @@ You probably haven't heard about me, but take a look at my work as soon as you c
 </p>
 
 _Contact me:_
-
-<!--  -->
-<a href="https://twitter.com/taidmc">
-<img src="https://cdn.simpleicons.org/x/_/ccc" alt="carloscabi" height="30px" width="30px" style="padding: 0 5px"/>
-</a>
-<!--  -->
 <a href="https://www.linkedin.com/in/carlos-cabi-42bb54241/">
 <img src="https://cdn.simpleicons.org/linkedin/_/ccc" alt="carloscabi" height="30px" width="30px" style="padding: 0 5px"/></a>
+
 <!--  -->
 <a href="https://leetcode.com/CarlosCaBi/">
 <img src="https://cdn.simpleicons.org/leetcode/_/ccc" alt="carloscabi" height="30px" width="30px" style="padding: 0 5px"/>
