@@ -1,15 +1,11 @@
 <h1 align="right"><i>Hi there!</i> I'm Carlos Cabi 🧑‍💻</h1>
 <p align="right">
- I am a technology lover and self-taught Fullstack teenager student.
+ I am a technology enthusiast and self-taught student.
 You probably haven't heard about me, but take a look at my work as soon as you can! I'll be grateful!
 </p>
 
 _Contact me:_
 
-<p style="padding: 0 5px; margin: 0px">
-<a href="https://www.instagram.com/carloscabidmc" target="blank">
-<img src="https://cdn.simpleicons.org/instagram/_/ccc" alt="carloscabi" height="30px" width="30px" style="padding: 0 5px"/>
-</a>
 <!--  -->
 <a href="https://twitter.com/taidmc">
 <img src="https://cdn.simpleicons.org/x/_/ccc" alt="carloscabi" height="30px" width="30px" style="padding: 0 5px"/>
